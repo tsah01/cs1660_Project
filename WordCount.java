@@ -1,3 +1,9 @@
+/* Name: Tula Sah
+ Course: CS 1660
+ Project: Second application processes User requests (such as constructing Inverting indices and processing user search requests)
+          This application is deployed on the GCP Cluster.
+ */
+
 // Importing libraries 
 
 import java.io.IOException;
