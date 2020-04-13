@@ -17,4 +17,5 @@ completed files are listed below:
     - all parts completed except "creating a jar file" and "job submit" 
     
     - those two are parcially implemented
+ d. Video Link: https://youtu.be/rmFXhhK-aBk
   
